@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Archibald Jarbee!
 
-![Archibald Jarbee sitting confidently, wearing a "Straight Outta UNIMTECH" shirt]([https://user-images.githubusercontent.com/yourimageurl.jpg](https://github.com/archibaldjarbee/archibaldjarbee/blob/main/dev_img.jpg)) <!-- Upload your image to GitHub and replace this link -->
+![Archibald Jarbee sitting confidently, wearing a "Straight Outta UNIMTECH" shirt]([https://github.com/archibaldjarbee/archibaldjarbee/blob/main/dev_img.jpg]) <!-- Upload your image to GitHub and replace this link -->
 
 ## 🚀 About Me
 I'm a passionate **Developer & Computer Specialist** thriving on creativity, technical excellence, and a love for learning. My journey at the University of Management and Technology (UMT) has been marked by curiosity, achievement, and a drive to bring ideas to life.

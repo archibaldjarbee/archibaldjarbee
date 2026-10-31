@@ -52,6 +52,9 @@
   <a href="https://codeforces.com/profile/jarbeearchibald">
     <img src="https://img.shields.io/badge/CODEFORCES-JARBEEARCHIBALD-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+  <a href="https://discord.com/channels/1438968247457284269/1438968248157736992">
+    <img src="https://img.shields.io/badge/DISCORD-COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
